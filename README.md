@@ -7,3 +7,6 @@ This project was inspired by my need to find some numbers when my mobile phone g
 I obviously would not want to borrow a friend's mobile phone and bombard his/her contacts with my own contacts, especially when all the efforts would only be just finding a few contacts.
 
 So, I wrote this program, hoping that it would be useful to someone else somewhere, facing the same or similar ordeal.
+
+## Note
+Please *'star'* this project if you find it useful to you. That way i feel encouraged to do more. Thanks.
